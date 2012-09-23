@@ -1,7 +1,7 @@
 /* 
 *  Program to perform three different numerical matrix operations in two ways each.
    One naive way, and a second smart one with tiling, to improve cache locality and 
-   hence, execution time.
+   hence execution time.
 */
 #include <stdlib.h>
 #include <stdio.h>
