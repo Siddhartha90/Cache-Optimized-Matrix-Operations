@@ -380,10 +380,4 @@ void tiled_stencil(float **array, int arr_size, int tile_size){
 
 }
 
-void timestamp(){
-
-
-
-
-}
 		
